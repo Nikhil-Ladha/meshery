@@ -31,6 +31,7 @@ require (
 	github.com/layer5io/meshsync v0.1.17
 	github.com/layer5io/nighthawk-go v0.1.5
 	github.com/layer5io/service-mesh-performance v0.3.3
+	github.com/lib/pq v1.7.0
 	github.com/nats-io/nats.go v1.10.0
 	github.com/olekukonko/tablewriter v0.0.2
 	github.com/pkg/errors v0.9.1
@@ -48,7 +49,7 @@ require (
 	golang.org/x/oauth2 v0.0.0-20200107190931-bf48bf16ab8d
 	golang.org/x/sync v0.0.0-20201020160332-67f06af15bc9 // indirect
 	gonum.org/v1/gonum v0.8.2
-	google.golang.org/grpc v1.36.0
+	google.golang.org/grpc v1.37.0
 	google.golang.org/protobuf v1.25.0
 	gopkg.in/yaml.v2 v2.4.0
 	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776 // indirect
